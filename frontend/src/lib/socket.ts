@@ -5,7 +5,10 @@ let socket: Socket | null = null;
 export const initializeSocket = (token: string): Socket => {
   if (socket) return socket;
 
-  socket = io(import.meta.env.VITE_API_URL?.replace('/api/v1', '') || 'http://localhost:3000', {
+  const apiUrl = import.meta.env?.VITE_API_URL || 'http://localhost:3000/api/v1';
+  const baseUrl = apiUrl.replace('/api/v1', '');
+
+  socket = io(baseUrl, {
     auth: { token },
     withCredentials: true,
   });
