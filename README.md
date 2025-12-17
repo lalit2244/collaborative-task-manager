@@ -2,8 +2,8 @@
 
 > A production-ready, full-stack task management application with real-time collaboration features.
 
-[![Live Demo](https://img.shields.io/badge/demo-live-success)]((https://collaborative-task-manager-frontend.onrender.com))
-[![Backend](https://img.shields.io/badge/API-live-blue)]((https://collaborative-task-manager-backend-0glw.onrender.com))
+[![Live Demo](https://collaborative-task-manager-frontend.onrender.com)
+[![Backend](https://collaborative-task-manager-backend-0glw.onrender.com)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ## 📋 Table of Contents
@@ -595,7 +595,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Your Name**
 - GitHub: [@yourusername](https://github.com/yourusername)
 - LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- Email: lalitpatil6445@gmail.com
+- Email: your.email@example.com
 
 ## 🙏 Acknowledgments
 
@@ -607,4 +607,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ If you find this project useful, please consider giving it a star on GitHub!**
 
-**📧 For inquiries or collaboration opportunities: lalitpatil6445@gmail.com**
+**📧 For inquiries or collaboration opportunities: your.email@example.com**
