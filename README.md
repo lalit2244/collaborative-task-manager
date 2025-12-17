@@ -2,8 +2,8 @@
 
 > A production-ready, full-stack task management application with real-time collaboration features.
 
-[![Live Demo](https://img.shields.io/badge/demo-live-success)]([https://task-manager-frontend.onrender.com](https://collaborative-task-manager-frontend.onrender.com))
-[![Backend](https://img.shields.io/badge/API-live-blue)]([https://task-manager-backend-xxxx.onrender.com](https://collaborative-task-manager-backend-0glw.onrender.com))
+[![Live Demo](https://img.shields.io/badge/demo-live-success)]((https://collaborative-task-manager-frontend.onrender.com))
+[![Backend](https://img.shields.io/badge/API-live-blue)]((https://collaborative-task-manager-backend-0glw.onrender.com))
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ## 📋 Table of Contents
