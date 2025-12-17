@@ -51,10 +51,9 @@ Password: User123!
 
 A comprehensive task management system designed for team collaboration with real-time synchronization. Built with modern technologies and best practices, this application demonstrates enterprise-level architecture, scalability, and maintainability.
 
-**Live Demo:** [https://task-manager-frontend.onrender.com](https://task-manager-frontend.onrender.com)
+**Live Demo:** [https://collaborative-task-manager-frontend.onrender.com](https://collaborative-task-manager-frontend.onrender.com)
 
-**API Endpoint:** [https://task-manager-backend-xxxx.onrender.com](https://task-manager-backend-xxxx.onrender.com)
-
+**API Endpoint:** [https://collaborative-task-manager-backend-0glw.onrender.com](https://collaborative-task-manager-backend-0glw.onrender.com)
 ## ✨ Features
 
 ### Core Functionality
