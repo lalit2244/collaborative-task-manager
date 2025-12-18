@@ -618,7 +618,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👥 Author
 
 **Your Name**
-- GitHub: [(https://github.com/lalit2244)](https://github.com/lalit2244)
+- GitHub: [https://github.com/lalit2244](https://github.com/lalit2244)
 - LinkedIn: [https://www.linkedin.com/in/lalit-patil-330882256](https://www.linkedin.com/in/lalit-patil-330882256)
 - Email: lalitpatil6445@gmail.com
 
