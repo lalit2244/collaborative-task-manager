@@ -203,7 +203,7 @@ PostgreSQL >= 14.x
 
 #### 1. Clone Repository
 ```bash
-git clone https://github.com/yourusername/collaborative-task-manager.git
+git clone https://github.com/lalit2244/collaborative-task-manager.git
 cd collaborative-task-manager
 ```
 
@@ -618,8 +618,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👥 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/lalit2244)
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/lalit-patil-330882256)
+- GitHub: [(https://github.com/lalit2244)](https://github.com/lalit2244)
+- LinkedIn: [https://www.linkedin.com/in/lalit-patil-330882256](https://www.linkedin.com/in/lalit-patil-330882256)
 - Email: lalitpatil6445@gmail.com
 
 ## 🙏 Acknowledgments
